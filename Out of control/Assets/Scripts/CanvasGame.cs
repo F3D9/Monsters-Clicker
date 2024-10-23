@@ -24,14 +24,13 @@ public class CanvasGame : MonoBehaviour
 
     public void openCanva(int number)
     {
-
         LeanTween.moveX(panel, number, velocidad).setEase(LeanTweenType.easeInOutQuint);
         GameObject.FindGameObjectWithTag("Boss").GetComponent<PolygonCollider2D>().enabled = false;
     }
 
     public void closeAllCanvas()
     {
-        LeanTween.moveX(panel, 900, velocidad).setEase(LeanTweenType.easeInOutQuint);
+        LeanTween.moveX(panel, 1400, velocidad).setEase(LeanTweenType.easeInOutQuint);
         GameObject.FindGameObjectWithTag("Boss").GetComponent<PolygonCollider2D>().enabled = true;
 
     }

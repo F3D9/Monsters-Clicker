@@ -1,0 +1,12 @@
+# ninja log v5
+69	1371	7513530328786493	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	f209a3d5aa67de87
+1373	2451	7513530338990652	F:/Github/Monsters-Clicker/Out of control/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5d462g2s/obj/arm64-v8a/libswappywrapper.so	1c58644030ec1374
+22	3615	7513530351215737	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	30b3aeb1f36f864d
+58	3926	7513530354265405	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	27798169a8057852
+16	3927	7513530354265405	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	ba18d1c980de04f7
+41	3973	7513530354796276	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	d8e1567b38bd5c07
+48	4007	7513530355063770	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	ef09eabfd21c54db
+9	4077	7513530355883125	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	b1a96dbbc58dc895
+28	4149	7513530356595318	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	2044f9b7d607cdaf
+2	4269	7513530357802327	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	3e72b2ebdf5a976f
+4270	4489	7513530359961930	F:/Github/Monsters-Clicker/Out of control/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5d462g2s/obj/arm64-v8a/libgame.so	781c52c77ecd279f

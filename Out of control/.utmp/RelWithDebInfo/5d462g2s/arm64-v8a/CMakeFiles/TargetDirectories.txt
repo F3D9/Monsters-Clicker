@@ -1,0 +1,8 @@
+F:/Github/Monsters-Clicker/Out of control/.utmp/RelWithDebInfo/5d462g2s/arm64-v8a/CMakeFiles/edit_cache.dir
+F:/Github/Monsters-Clicker/Out of control/.utmp/RelWithDebInfo/5d462g2s/arm64-v8a/CMakeFiles/rebuild_cache.dir
+F:/Github/Monsters-Clicker/Out of control/.utmp/RelWithDebInfo/5d462g2s/arm64-v8a/GameActivity/CMakeFiles/game.dir
+F:/Github/Monsters-Clicker/Out of control/.utmp/RelWithDebInfo/5d462g2s/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+F:/Github/Monsters-Clicker/Out of control/.utmp/RelWithDebInfo/5d462g2s/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+F:/Github/Monsters-Clicker/Out of control/.utmp/RelWithDebInfo/5d462g2s/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+F:/Github/Monsters-Clicker/Out of control/.utmp/RelWithDebInfo/5d462g2s/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+F:/Github/Monsters-Clicker/Out of control/.utmp/RelWithDebInfo/5d462g2s/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
